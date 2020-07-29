@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f64082f512e2c384d85867700ea59b82
+  - enabled: 1
+    path: Assets/Scenes/BeginScene_1.unity
+    guid: 4453c2e2e51c6c64b8e9464505bdf709
+  - enabled: 1
+    path: Assets/Scenes/CleanTeeth_1.unity
+    guid: 69e8bd6f087e5eb4ab568a65caaef192
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 5073d2818fb0d5944a021ad10ea474db
+  - enabled: 1
+    path: Assets/Scenes/Hospitale_1.unity
+    guid: 55cc11a80109f8a4b94389b6df6c18c9
+  - enabled: 1
+    path: Assets/Scenes/Road_1.unity
+    guid: bb533190989ed9944a58c05882f408e7
+  - enabled: 1
+    path: Assets/Scenes/Loading_home.unity
+    guid: d91b123a8d5047b4697e9f1ca09a7f1d
+  - enabled: 1
+    path: Assets/Scenes/TV_1.unity
+    guid: 57c1be2563526724f94aec6f80cedab7
+  - enabled: 1
+    path: Assets/Scenes/BeginScene_2.unity
+    guid: 0b067d887bda17b4da6ef65ba4e84175
+  - enabled: 1
+    path: Assets/Scenes/CleanTeeth_2.unity
+    guid: 86f7800f76e3c704c9c0ae3417bf8587
+  - enabled: 1
+    path: Assets/Scenes/Loading 1.unity
+    guid: 5bf92b8cc1ab12b4a8d20ae9f890254c
+  - enabled: 1
+    path: Assets/Scenes/Hospitale_2.unity
+    guid: 26880a26edeaeb5439a52bc19e4387de
+  - enabled: 1
+    path: Assets/Scenes/Pizza_2.unity
+    guid: da9f0e4d409f06c4d9b044a79a2b83f6
+  - enabled: 1
+    path: Assets/Scenes/Road_2.unity
+    guid: 8edeb399a8fec9c489c17dddda7abdae
+  - enabled: 1
+    path: Assets/Scenes/Loading_home 1.unity
+    guid: 6745cbfd7a326b247b170ca5ce6facc5
+  - enabled: 1
+    path: Assets/Scenes/TV_2.unity
+    guid: 74b94c60d9509a142964bdcb667d4f7f
+  - enabled: 1
+    path: Assets/Scenes/TotalEnd.unity
+    guid: 4544341b7ccd52646bc2f7d3461d40fc
+  m_configObjects: {}

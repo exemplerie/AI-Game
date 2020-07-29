@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1235a1caeb1235348b8d037f8efa6880
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - Radio (3)-Start3-0
+  - Radio (3)-Start3-1
+  - Radio (3)-Node33-2
+  - Radio (3)-Node33-3
+  - Radio (3)-Node34-4
+  - Radio (3)-Node34-5
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []

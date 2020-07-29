@@ -1,0 +1,34 @@
+title: Start
+tags: 
+colorID: 0
+position: -496,-31
+---
+Оглянитесь вокруг.
+
+ [[Answer:Node|Node]]
+===
+title: Node
+tags: 
+colorID: 0
+position: -262,-29
+---
+Возможно, вы еще не заметили, как изменилась наша жизнь?
+
+ [[Answer:Node_2|Node_2]]
+===
+title: Node_2
+tags: 
+colorID: 0
+position: -52,-40
+---
+Дайте шанс искусственному интеллекту, и посмотрим, что выйдет:
+
+ [[Answer:Node_3|Node_3]]
+===
+title: Node_3
+tags: 
+colorID: 0
+position: 274,-26
+---
+<<next LevelLoader>>
+===

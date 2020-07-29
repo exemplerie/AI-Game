@@ -1,0 +1,60 @@
+title: Start
+tags: 
+colorID: 0
+position: 162,243
+---
+Алло?
+
+ [[Answer:Node|a]]
+===
+title: a
+tags: 
+colorID: 0
+position: 374,239
+---
+<<setsprite Man silent>>
+
+Коллега: У меня хорошие новости!
+
+ [[Answer:b|b]]
+===
+title: b
+tags: 
+colorID: 0
+position: 580,239
+---
+<<setsprite Man talking>>
+
+Удиви меня.
+
+ [[Answer:c|c]]
+===
+title: c
+tags: 
+colorID: 0
+position: 786,238
+---
+<<setsprite Man silent>>
+
+Коллега: Сегодня можешь освободиться пораньше. Наша система обработала большую часть снимков, тебе осталось только подтвердить диагноз.
+
+ [[Answer:d|d]]
+===
+title: d
+tags: 
+colorID: 0
+position: 996,238
+---
+<<setsprite Man talking>>
+
+Звучит замечательно, спасибо!
+
+ [[Answer:e|e]]
+===
+title: e
+tags: 
+colorID: 0
+position: 1001,449
+---
+<<note Invoker>>
+===

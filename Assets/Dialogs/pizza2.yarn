@@ -1,0 +1,99 @@
+title: Start
+tags: 
+colorID: 0
+position: 88,292
+---
+Время обеда! Закажу-ка я пиццу.
+
+ [[Answer:Node0|Node0]]
+===
+title: Node1
+tags: 
+colorID: 0
+position: 356,291
+---
+Здравствуйте! Можно заказать Деревенскую пиццу среднего размера?
+
+ [[Answer:Node2|Node2]]
+===
+title: Node2
+tags: 
+colorID: 0
+position: 572,289
+---
+Только, пожалуйста, не кладите грибы! У меня на них аллергия.
+
+ [[Answer:Node3|Node3]]
+===
+title: Node3
+tags: 
+colorID: 0
+position: 797,289
+---
+Так, на адрес... 
+
+[[Answer:Node4|Node4]]
+===
+title: Node4
+tags: 
+colorID: 0
+position: 1025,291
+---
+<<setsprite Image wait>>
+
+...
+
+<<wait 2>>
+
+
+ [[Answer:Node5|Node5]]
+===
+title: Node5
+tags: 
+colorID: 0
+position: 997,518
+---
+<<setsprite Image closen_box>>
+
+Ну наконец-то! Слюнки текут...
+
+ [[Answer:Node6|Node6]]
+===
+title: Node6
+tags: 
+colorID: 0
+position: 772,515
+---
+<<setsprite Image open_box>>
+
+...
+
+ [[Answer:Node7|Node7]]
+===
+title: Node7
+tags: 
+colorID: 0
+position: 548,515
+---
+Ну, не очень то и хотелось...
+
+ [[Answer:Node8|Node8]]
+===
+title: Node8
+tags: 
+colorID: 0
+position: 319,512
+---
+<<next Environment>>
+===
+title: Node0
+tags: 
+colorID: 0
+position: 33,536
+---
+<<setsprite Image man>>
+
+*гудки*
+
+ [[Answer:Node1|Node1]]
+===

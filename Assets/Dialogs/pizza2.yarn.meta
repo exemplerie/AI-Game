@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 6ec9464b2631b3240bb67b79fdf8a145
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - pizza2-Start-0
+  - pizza2-Start-1
+  - pizza2-Node1-2
+  - pizza2-Node1-3
+  - pizza2-Node2-4
+  - pizza2-Node2-5
+  - pizza2-Node3-6
+  - pizza2-Node3-7
+  - pizza2-Node4-8
+  - pizza2-Node4-9
+  - pizza2-Node5-10
+  - pizza2-Node5-11
+  - pizza2-Node6-12
+  - pizza2-Node6-13
+  - pizza2-Node7-14
+  - pizza2-Node7-15
+  - pizza2-Node0-16
+  - pizza2-Node0-17
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []

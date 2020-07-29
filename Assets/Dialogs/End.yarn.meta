@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: bd41f125329675c468a57c639fee3c33
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - End-B-0
+  - End-B-1
+  - End-C-2
+  - End-C-3
+  - End-D-4
+  - End-D-5
+  - End-A-6
+  - End-A-7
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []

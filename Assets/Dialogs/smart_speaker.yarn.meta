@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 54a1b3e8162cac146b4426506aa53de4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - smart_speaker-Start-0
+  - smart_speaker-Start-1
+  - smart_speaker-Start-2
+  - smart_speaker-Start-3
+  - smart_speaker-Start-4
+  - smart_speaker-Rock-5
+  - smart_speaker-Rock-6
+  - smart_speaker-Pop-7
+  - smart_speaker-Pop-8
+  - smart_speaker-Classic-9
+  - smart_speaker-Classic-10
+  - smart_speaker-Jazz-11
+  - smart_speaker-Jazz-12
+  - smart_speaker-Weather-13
+  - smart_speaker-Weather-14
+  - smart_speaker-End-15
+  - smart_speaker-End-16
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []

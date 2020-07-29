@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FadeTransition
+  m_Controller: {fileID: 9100000, guid: 3369b9962ddc2724dbd6b603720b6f52, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 03b7646610ce5234aa9bdfd4554adaf3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 64f6ea6cc11566f4cb2aca8efd31e1ac, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f90f9d5fbe106304a89e93f21c2b7b15, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ba418ed0429fd764f924a25665c5f290, type: 2}

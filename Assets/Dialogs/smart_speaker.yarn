@@ -1,0 +1,81 @@
+title: Start
+tags: 
+colorID: 0
+position: 680,294
+---
+Умная колонка: Доброе утро! Хотите послушать музыку?
+
+ [[Врубай рок!|Rock]]
+ [[Врубай поп!|Pop]]
+ [[Врубай классику!|Classic]]
+ [[Врубай джаз!|Jazz]]
+===
+title: Rock
+tags: 
+colorID: 0
+position: 81,279
+---
+<<rock Music>> 
+
+Готово! Чем еще могу помочь?
+
+ [[Погода на сегодня.|Weather]]
+===
+title: Pop
+tags: 
+colorID: 0
+position: 332,76
+---
+<<pop Music>>
+
+Готово! Чем еще могу помочь?
+
+ [[Погода на сегодня.|Weather]]
+===
+title: Classic
+tags: 
+colorID: 0
+position: 477,-194
+---
+<<classic Music>>
+
+Готово! Чем еще могу помочь?
+
+ [[Погода на сегодня.|Weather]]
+===
+title: Jazz
+tags: 
+colorID: 0
+position: 654,-491
+---
+<< jazz Music >>
+
+Готово! Чем еще могу помочь?
+
+ [[Погода на сегодня.|Weather]]
+===
+title: Weather
+tags: 
+colorID: 0
+position: 167,-278
+---
+Сегодня солнечно, от 21° до 25°, без дождя, ветер 6 метров в секунду.
+
+ [[Спасибо!|End]]
+===
+title: End
+tags: 
+colorID: 0
+position: -87,-394
+---
+Всегда рада помочь!
+
+ [[->|End2]]
+===
+title: End2
+tags: 
+colorID: 0
+position: -106,-59
+---
+<< note Invoker >>
+===

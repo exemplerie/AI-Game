@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 8de66cb390798df448c4d3311e4d19e8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - hospital_talk-Start-0
+  - hospital_talk-Start-1
+  - hospital_talk-a-2
+  - hospital_talk-a-3
+  - hospital_talk-b-4
+  - hospital_talk-b-5
+  - hospital_talk-c-6
+  - hospital_talk-c-7
+  - hospital_talk-d-8
+  - hospital_talk-d-9
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 8de66cb390798df448c4d3311e4d19e8,
+    type: 3}
+  localizations: []
