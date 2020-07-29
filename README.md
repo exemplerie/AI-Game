@@ -3,6 +3,8 @@
 
 Проживи день с главным героем и реши, искусственный интеллект - хорошо или плохо?
 
+Игру также можно загрузить с диска: https://yadi.sk/d/Gn__MYo09VcbLg
+
 ![Image alt](https://github.com/exemplerie/AI-Game/raw/master/FinalVersion/Captions/1.png)
 
 ![Image alt](https://github.com/exemplerie/AI-Game/raw/master/FinalVersion/Captions/2.png)
